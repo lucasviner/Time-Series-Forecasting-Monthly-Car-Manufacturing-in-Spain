@@ -80,10 +80,9 @@ The modeling process follows these steps:
 ## 📂 Repository Structure
 
 ```
-/ProyectoHPC.zip        → Contains all scripts, the PDF report, and the dataset
-  ├── *.Rmd             → R Markdown scripts for estimation, validation, and forecasting
-  ├── *.pdf             → Final project report
-  └── *.dat             → Original time series data
+/Turismos.dat        → Original time series data (monthly car production)
+/TimeSeries.pdf         → Final project report (methodology, results, discussion)
+/TimeSeries.Rmd         → R Markdown script for estimation, validation, and forecasting
 ```
 
 ---
